@@ -7,6 +7,6 @@ Feature: Computer Search
 
     Examples:
         | name  | computer ids |
-        | red   | [12, 34] |
-        | green | [43]     |
-        | blue  | []       |
+        | red   | [12, 34]     |
+        | green | [43]         |
+        | blue  | []           |
