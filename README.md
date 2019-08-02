@@ -38,8 +38,8 @@ docker build --tag computer-search .
 docker run -it -p 8001:80 computer-search
 
 # execute acceptance tests
-cd features/computer_search
 pipenv install
+cd features/computer_search
 behave
 ```
 
