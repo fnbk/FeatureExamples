@@ -24,7 +24,7 @@ Imagine you see your system as a black box and design all acceptance tests from 
 * all past PBIs are verified in each software build
 * refactor software without breaking the system
 * be the first customer of your software (black-box tests)
-* better user experience on an API level (UX)
+* it's like better user experience (UX), in this case on an API level
 * make your system more accessible by providing the right API endpoints for easier testing
 
 This black-box driven developent process ultimatively leads to a better software architecture.
